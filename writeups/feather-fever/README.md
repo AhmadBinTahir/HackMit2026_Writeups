@@ -1,9 +1,7 @@
 # Feather Fever — Solve Writeup
 
 **Name:** Ahmad Bin Tahir
-**Application ID:** 476
-**Application Email:** abt.ahmadbintahir@gmail.com
-**Discord Username:** UnknownGamer4303
+**Application Email:** #######
 
 **Puzzle:** Feather Fever
 Feather = Birds, Fever = Fever → Birds Class = Aves, Common Fever = Influenza → Birds Fever = Avian Influenza

@@ -1,6 +1,6 @@
 # HackMIT Puzzle Solve Writeups
 
-Writeups by **Ahmad Bin Tahir** (Application ID 476, Discord: `UnknownGamer4303`) for a series of HackMIT-style puzzle challenges.
+Writeups by **Ahmad Bin Tahir** for a series of HackMIT-style puzzle challenges.
 
 ## Writeups
 

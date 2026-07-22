@@ -1,9 +1,7 @@
 # MIT OWIE — Solve Writeup
 
 **Name:** Ahmad Bin Tahir
-**Application ID:** 476
-**Application Email:** abt.ahmadbintahir@gmail.com
-**Discord Username:** UnknownGamer4303
+**Application Email:** #######
 
 **Puzzle:** MIT OWIE
 

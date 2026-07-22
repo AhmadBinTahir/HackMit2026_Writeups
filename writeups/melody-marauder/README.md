@@ -1,9 +1,7 @@
 # Melody Marauder — Solve Writeup
 
 **Name:** Ahmad Bin Tahir
-**Application ID:** 476
-**Application Email:** abt.ahmadbintahir@gmail.com
-**Discord Username:** UnknownGamer4303
+**Application Email:** #######
 
 **Puzzle:** Melody Marauder
 
@@ -92,7 +90,7 @@ The working solver is `solve.py`: run it with just `--user-id`, install `gmpy2` 
 I used my own concept and things learned but asked Claude to generate code for me to save time. I used two types of code:
 
 - To find the issues, correct melodies, and testing purposes (`testing.js`), which I used on my Chrome console.
-- To actually solve the whole puzzle just by my code — meaning everything solved directly through the code just by `solve.py --user-id 476`, which gave my flag.
+- To actually solve the whole puzzle just by my code — meaning everything solved directly by running `solve.py`, which gave my flag.
 - Codes are attached: [Link to Code](https://drive.google.com/file/d/1-STnWFeN7BE1F4Grg-mHcmFkRysYnOFi/view?usp=sharing)
 
 ## AI Usage
